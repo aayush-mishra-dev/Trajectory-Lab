@@ -1,4 +1,4 @@
-# 🎯 Trajectory Lab
+# 🎯 Trajectory Lab - Initiative by Aayush Mishra
 
 **An interactive physics lab where you can launch anything, anywhere, and watch how speed, angle, gravity, air and wind shape its path.**
 
@@ -37,7 +37,7 @@ Works on computers and phones.
 
 ## Built with
 
-Python · Streamlit · HTML, CSS & JavaScript · physics simulated with 4th-order Runge–Kutta
+Python · Streamlit · Physics Simulated With 4th Order Runge–Kutta
 
 ---
 
