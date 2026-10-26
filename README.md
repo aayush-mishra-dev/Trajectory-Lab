@@ -2,7 +2,7 @@
 
 **An interactive physics lab where you can launch anything, anywhere, and watch how speed, angle, gravity, air and wind shape its path.**
 
-🔗 **Live site:** _add your link here_
+🔗 **Live site:** https://trajectorylab.streamlit.app/)
 
 ---
 
