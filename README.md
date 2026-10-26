@@ -1,6 +1,6 @@
 # 🎯 Trajectory Lab - Initiative by Aayush Mishra
 
-**An interactive physics lab where you can launch anything, anywhere, and watch how speed, angle, gravity, air and wind shape its path.**
+**An interactive physics lab mainly for students who want to learn about the fundamentals of physics projectiles, and motion in general. You can launch anything, anywhere, and watch how speed, angle, gravity, air and wind shape its path.**
 
 🔗 **Live site:** https://trajectorylab.streamlit.app/
 
